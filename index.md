@@ -2,6 +2,6 @@
 <html>
 <body>
 <h1>Hello World:)</h1>
-  <p>I'm hosted with GitHub pages!!!</p>
+  <p>This website is under construction!!!</p>
 </body>
 </html>
