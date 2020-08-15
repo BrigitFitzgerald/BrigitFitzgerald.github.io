@@ -10,7 +10,14 @@
       li {
         float: left;
       }
-      li :hover:not(.active) {
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      li a:hover:not(.active) {
          background-color: #111;
       }
       .active {
@@ -18,11 +25,11 @@
        }
     </style>
   </head>
-    
 
+<body>
   <ul>
       <li><a href="about.html">About</a></li>
       <li><a href="contact.html">Contact</a></li>
   </ul>
-
+</body>
 <html>
