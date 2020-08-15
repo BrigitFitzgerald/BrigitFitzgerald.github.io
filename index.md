@@ -6,6 +6,15 @@ ul {
   margin: 0;
   padding: 0;
 }
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
 </style>
 </head>
 <body>
