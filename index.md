@@ -14,7 +14,13 @@ li {
 
 li a {
   display: block;
-  padding: 8px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
 }
 </style>
 </head>
