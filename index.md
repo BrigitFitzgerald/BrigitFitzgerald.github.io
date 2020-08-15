@@ -3,8 +3,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <head>
 <body>
-  <h1>About (Home)</h1>
   <div class="container-fluid">
+  <h1>About (Home)</h1>
+  
   <div class="row">
       <div class="col-md-6">
       <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
