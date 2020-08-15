@@ -1,5 +1,5 @@
 <html>
-  <head>
+  <header>
 <style>
 ul {
   list-style-type: none;
@@ -23,7 +23,7 @@ li a:hover {
   background-color: #111;
 }
 </style>
-</head>
+</header>
 <body>
 
 <ul>
