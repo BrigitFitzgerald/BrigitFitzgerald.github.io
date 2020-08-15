@@ -5,6 +5,8 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  overflow: hidden;
+  background-color: #dddddd;
 }
 li {
   float: left;
@@ -13,7 +15,6 @@ li {
 li a {
   display: block;
   padding: 8px;
-  background-color: #dddddd;
 }
 </style>
 </head>
