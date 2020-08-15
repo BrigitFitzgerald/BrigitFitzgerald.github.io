@@ -1,7 +1,7 @@
 <html>
 <body>
   
-  <img src='file:///C:/Users/brigi/Desktop/40212635_710494179302774_6326379903797166080_o.html' alt="Headshot">
+  <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" alt="Headshot">
   <h1>Hello World:)</h1>
     <p>This website is under construction!!!</p>
 </body>
