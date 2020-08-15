@@ -6,7 +6,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #dddddd;
+  background-color: #333;
 }
 li {
   float: left;
