@@ -34,11 +34,11 @@
 <body>
   
   <div class="row">
-  <div class="column" style="background-color:#fff;">
+  <div class="column" style="background-color:#ffffff00;">
     <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
-      width="250" height="250" alt="Headshot" style="border:5px solid black">
+      width="275" height="275" alt="Headshot" style="border:5px solid black">
   </div>
-  <div class="column" style="background-color:#fff;">
+  <div class="column" style="background-color:#ffffff00;">
     <h2>Column 2</h2>
     <p>We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, 
       provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, 
