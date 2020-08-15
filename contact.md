@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <body>
       <h1>Contact<h1>
