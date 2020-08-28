@@ -39,10 +39,8 @@
       width="275" height="275" alt="Headshot" style="border:5px solid black">
   </div>
   <div class="column" style="background-color:#ffffff00;">
-    <h2>Column 2</h2>
-    <p>We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, 
-      provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, 
-      do ordain and establish this Constitution for the United States of America.</p>
+    <h2>Introduction</h2>
+    <p>Hello! This website is under construction. Please contact me at brigitfitzgerald@gmail.com if you would like to be in touch.</p>
   </div>
 </div>
  
