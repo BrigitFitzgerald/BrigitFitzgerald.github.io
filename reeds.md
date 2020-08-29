@@ -41,8 +41,8 @@
         to request a specialty reed (ex: 2nd bassoon, high note, higher pitch), please contact me with your request.</p>  
   <div>
   <div class="column" style="background-color:#ffffff00;">
-    <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
-      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:right">
+    <p><img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
+      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:right"><p>
   <div>
   <div>
     
@@ -54,8 +54,8 @@
       <p>• $10 for shipping and handling</p>
       <p>• A free reed is included with each order!</p>
   <div>
-       <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
-      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:right">
+      <p> <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
+      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:right"><p>
   <div>
   <div>
     
@@ -65,8 +65,8 @@
     <<h1>Order</h1>
       <p>Please email brigitfitzgerald@gmail.com with your order. I will respond quickly with an invoice. Thank you!<p>
   <div>
-       <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
-      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:right">
+      <p> <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
+      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:right"><p>
   <div>
   <div>
   
