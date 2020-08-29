@@ -42,7 +42,7 @@
   </div>
   <div class="column" style="background-color:#ffffff00;">
     <p><img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
-      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:right"></p>
+      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:left"></p>
   </div>
   </div>
     
@@ -50,7 +50,7 @@
   <div class="row">
   <div class="column" style="background-color:#ffffff00;">
     <p> <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
-      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:right"></p>
+      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:left"></p>
   </div>
   <div class="column" style="background-color:#ffffff00;">
     <h1>Pricing</h1>
@@ -68,7 +68,7 @@
   </div>
   <div class="column" style="background-color:#ffffff00;">
       <p> <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
-      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:right"></p>
+      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:left"></p>
   </div>
   </div>
   
