@@ -39,7 +39,7 @@
       width="275" height="275" alt="Headshot" style="border:5px solid black">
   </div>
   <div class="column" style="background-color:#ffffff00;">
-    <h2>Introduction</h2>
+    <h1>Introduction</h1>
     <p>Hello! This website is under construction. Please contact me at brigitfitzgerald@gmail.com if you would like to be in touch.</p>
   </div>
 </div>
