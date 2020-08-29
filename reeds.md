@@ -30,8 +30,6 @@
 </head>
 
 
-
-
 <body>
   
   
@@ -45,11 +43,12 @@
       <p>• $15 per reed</p>
       <p>• $10 for shipping and handling</p>
       <p>• A free reed is included with each order!</p>
-    <h1>Order</h1>
-      <p>Please email brigitfitzgerald@gmail.com with your order. I will respond quickly with an invoice. Thank you!<p>
+    
    
   <div>
   <div class="column" style="background-color:#ffffff00;">
+    <h1>Order</h1>
+      <p>Please email brigitfitzgerald@gmail.com with your order. I will respond quickly with an invoice. Thank you!<p>
      <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
       width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:right">
   <div>
