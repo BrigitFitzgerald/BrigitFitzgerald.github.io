@@ -42,7 +42,7 @@
   </div>
   <div class="column" style="background-color:#ffffff00;">
     <p><img src="ReedLine.jpg" 
-      width="275" height="275" alt="Diagram" style="border:5px solid black" style="float:left"></p>
+      width="275" height="275" alt="Reed Line" style="border:5px solid black" style="float:left"></p>
   </div>
   </div>
     
@@ -56,7 +56,7 @@
   </div>
   <div class="column" style="background-color:#ffffff00;">
     <p> <img src="Diagram.jpg" 
-      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:left"></p>
+      width="275" height="275" alt="Diagram" style="border:5px solid black" style="float:left"></p>
   </div>
   </div>
     
@@ -68,7 +68,7 @@
   </div>
   <div class="column" style="background-color:#ffffff00;">
       <p> <img src="ReedPile.jpg" 
-      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:left"></p>
+      width="275" height="275" alt="Reed Pile" style="border:5px solid black" style="float:left"></p>
   </div>
   </div>
   
