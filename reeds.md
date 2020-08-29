@@ -41,8 +41,8 @@
         to request a specialty reed (ex: 2nd bassoon, high note, higher pitch), please contact me with your request.</p>  
   </div>
   <div class="column" style="background-color:#ffffff00;">
-    <p><img src="Diagram.png" 
-     alt="Headshot" style="border:5px solid black" style="float:left"></p>
+    <p><img src="ReedLine.jpg" 
+      width="275" height="275" alt="Diagram" style="border:5px solid black" style="float:left"></p>
   </div>
   </div>
     
@@ -55,7 +55,7 @@
       <p>• A free reed is included with each order!</p>
   </div>
   <div class="column" style="background-color:#ffffff00;">
-    <p> <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
+    <p> <img src="Diagram.jpg" 
       width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:left"></p>
   </div>
   </div>
@@ -67,7 +67,7 @@
       <p>Please email brigitfitzgerald@gmail.com with your order. I will respond quickly with an invoice. Thank you!</p>
   </div>
   <div class="column" style="background-color:#ffffff00;">
-      <p> <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
+      <p> <img src="ReedPile.jpg" 
       width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:left"></p>
   </div>
   </div>
