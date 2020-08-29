@@ -39,12 +39,12 @@
       <p>I love making reeds, and I am happy to share them with you! My reeds have a modified Herzberg scrape, with the dimensions that are included in the diagram. Each reed 
         is rigorously tested and sanitized before it is sold. I do all of my work by hand, in order to ensure the best reed from each unique piece of cane. If you would like 
         to request a specialty reed (ex: 2nd bassoon, high note, higher pitch), please contact me with your request.</p>  
-  <div>
+  </div>
   <div class="column" style="background-color:#ffffff00;">
     <p><img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
       width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:right"></p>
-  <div>
-  <div>
+  </div>
+  </div>
     
     
   <div class="row">
@@ -53,22 +53,22 @@
       <p>• $15 per reed</p>
       <p>• $10 for shipping and handling</p>
       <p>• A free reed is included with each order!</p>
-  <div>
+  </div>
       <p> <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
       width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:right"></p>
-  <div>
-  <div>
+  </div>
+  </div>
     
     
   <div class="row">
   <div class="column" style="background-color:#ffffff00;">
-    <<h1>Order</h1>
+    <h1>Order</h1>
       <p>Please email brigitfitzgerald@gmail.com with your order. I will respond quickly with an invoice. Thank you!<p>
-  <div>
+  </div>
       <p> <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
       width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:right"></p>
-  <div>
-  <div>
+  </div>
+  </div>
   
 <body>
 <html>
