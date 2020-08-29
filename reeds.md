@@ -41,8 +41,8 @@
         to request a specialty reed (ex: 2nd bassoon, high note, higher pitch), please contact me with your request.</p>  
   </div>
   <div class="column" style="background-color:#ffffff00;">
-    <p><img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
-      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:left"></p>
+    <p><img src="Diagram.png" 
+     alt="Headshot" style="border:5px solid black" style="float:left"></p>
   </div>
   </div>
     
