@@ -43,7 +43,7 @@
       width="275" height="275" alt="Headshot" style="border:5px solid black">
     <h1>Order</h1>
       <p>Please email brigitfitzgerald@gmail.com with your order. I will respond quickly with an invoice. Thank you!<p>
-  <div>
+  </div>
   <div class="column" style="background-color:#ffffff00;">
     <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
       width="275" height="275" alt="Headshot" style="border:5px solid black">
@@ -55,7 +55,10 @@
       width="275" height="275" alt="Headshot" style="border:5px solid black">
   </div>
 </div>
+ 
 
 <body>
-      
 <html>
+
+
+   
