@@ -52,7 +52,7 @@
   </div>
   <div class="column" style="background-color:#ffffff00;">
      <img src="https://i.postimg.cc/wBrSkcrx/40212635-710494179302774-6326379903797166080-o.jpg" 
-      width="275" height="275" alt="Headshot" style="border:5px solid black">
+      width="275" height="275" alt="Headshot" style="border:5px solid black" style="float:right">
   </div>
 </div>
   
