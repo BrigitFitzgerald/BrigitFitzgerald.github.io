@@ -55,14 +55,15 @@ img {
     
   <div class="row">
   <div class="column" style="background-color:#ffffff00;">
+    <p> <img src="Diagram.jpg" 
+      width="275" height="275" alt="Diagram" style="border:5px solid black" style="float:left"></p>
+    
+  </div>
+  <div class="column" style="background-color:#ffffff00;">
     <h1>Pricing</h1>
       <p>• $15 per reed</p>
       <p>• $10 for shipping and handling</p>
       <p>• A free reed is included with each order!</p>
-  </div>
-  <div class="column" style="background-color:#ffffff00;">
-    <p> <img src="Diagram.jpg" 
-      width="275" height="275" alt="Diagram" style="border:5px solid black" style="float:left"></p>
   </div>
   </div>
     
